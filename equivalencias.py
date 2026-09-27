@@ -65,11 +65,11 @@ Kidney1_dataset = {
     "hematocrit":[
         "volumen celular empaquetado"
     ],
-    # Nombre original wc
+    # Nombre original wbcc
     "white_blood_cell_count":[
         "Recuento de glóbulos blancos"
     ],
-    # Nombre original rc
+    # Nombre original rbcc
     "red_blood_cell_count":[
         "Recuento de glóbulos rojos"
     ],
@@ -93,7 +93,7 @@ Kidney1_dataset = {
     "pedal_edema":[
         "Edema de pedal"
     ],
-    # Nombre original anemia
+    # Nombre original ane
     "anemia":[
         "Anemia"
     ],
